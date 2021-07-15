@@ -91,14 +91,14 @@ export const Container = styled.section<RangeProps>`
       height: 2.5rem;
       width: 2.5rem;
       border-radius: 50%;
-      background: no-repeat center/50% url("https://i.imgur.com/l84bIu6.png");
+      background: no-repeat center/50% url("https://github.com/thallesgalv/interactive-pricing-component-challenge/blob/master/src/assets/images/icon-slider.png?raw=true");
       background-color: #25ada1;
       border: none;
       transition: all 0.2s ease-in-out;
 
       &:hover,
       &:active {
-        background: no-repeat center/50% url("https://i.imgur.com/l84bIu6.png");
+        background: no-repeat center/50% url("https://github.com/thallesgalv/interactive-pricing-component-challenge/blob/master/src/assets/images/icon-slider.png?raw=true");
         background-color: #5deadc;
       }
     }
@@ -107,14 +107,14 @@ export const Container = styled.section<RangeProps>`
       height: 2.5rem;
       width: 2.5rem;
       border-radius: 50%;
-      background: no-repeat center/50% url("https://i.imgur.com/l84bIu6.png");
+      background: no-repeat center/50% url("https://github.com/thallesgalv/interactive-pricing-component-challenge/blob/master/src/assets/images/icon-slider.png?raw=true");
       background-color: #25ada1;
       border: none;
       transition: all 0.2s ease-in-out;
 
       &:hover,
       &:active {
-        background: no-repeat center/50% url("https://i.imgur.com/l84bIu6.png");
+        background: no-repeat center/50% url("https://github.com/thallesgalv/interactive-pricing-component-challenge/blob/master/src/assets/images/icon-slider.png?raw=true");
         background-color: #5deadc;
       }
     }
