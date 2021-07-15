@@ -224,7 +224,7 @@ export const Container = styled.section<RangeProps>`
 
       @media (min-width: 767px) {
         justify-content: unset;
-    }
+      }
 
       img {
         width: fit-content;

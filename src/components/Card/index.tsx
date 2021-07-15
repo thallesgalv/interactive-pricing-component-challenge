@@ -62,7 +62,6 @@ export const Card: React.FC = () => {
         <PriceContainer>
           <p>${discount ? price * 0.75 : price}.00</p>
         </PriceContainer>
-       
       </InfoContainer>
 
       <label htmlFor='billing'>
@@ -96,18 +95,3 @@ export const Card: React.FC = () => {
     </Container>
   );
 };
-
-// - 10K pageviews / $8 per month
-// - 50K pageviews / $12 per month
-// - 100K pageviews / $16 per month
-// - 500k pageviews / $24 per month
-// - 1M pageviews / $36 per month
-
-// Monthly Billing
-// Yearly Billing 25% discount
-
-// Unlimited websites
-// 100% data ownership
-// Email reports
-
-// Start my trial
