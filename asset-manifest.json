@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/interactive-pricing-component-challenge/static/css/main.66323f22.chunk.css",
+    "main.js": "/interactive-pricing-component-challenge/static/js/main.cd7e26dc.chunk.js",
+    "main.js.map": "/interactive-pricing-component-challenge/static/js/main.cd7e26dc.chunk.js.map",
+    "runtime-main.js": "/interactive-pricing-component-challenge/static/js/runtime-main.a25b3592.js",
+    "runtime-main.js.map": "/interactive-pricing-component-challenge/static/js/runtime-main.a25b3592.js.map",
+    "static/js/2.9d41e780.chunk.js": "/interactive-pricing-component-challenge/static/js/2.9d41e780.chunk.js",
+    "static/js/2.9d41e780.chunk.js.map": "/interactive-pricing-component-challenge/static/js/2.9d41e780.chunk.js.map",
+    "index.html": "/interactive-pricing-component-challenge/index.html",
+    "static/css/main.66323f22.chunk.css.map": "/interactive-pricing-component-challenge/static/css/main.66323f22.chunk.css.map",
+    "static/js/2.9d41e780.chunk.js.LICENSE.txt": "/interactive-pricing-component-challenge/static/js/2.9d41e780.chunk.js.LICENSE.txt",
+    "static/media/icon-check.83c38a48.svg": "/interactive-pricing-component-challenge/static/media/icon-check.83c38a48.svg",
+    "static/media/pattern-circles.9f6ed14b.svg": "/interactive-pricing-component-challenge/static/media/pattern-circles.9f6ed14b.svg",
+    "static/media/tgViceBlue.4d55f319.svg": "/interactive-pricing-component-challenge/static/media/tgViceBlue.4d55f319.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a25b3592.js",
+    "static/js/2.9d41e780.chunk.js",
+    "static/css/main.66323f22.chunk.css",
+    "static/js/main.cd7e26dc.chunk.js"
+  ]
+}
