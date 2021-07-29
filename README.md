@@ -1,7 +1,7 @@
 # Frontend Mentor Challenge
 
 ## Interactive Pricing Component Challenge
-- [Challenge Link](https://github.com/thallesgalv/interactive-pricing-component-challenge)
+- [Challenge Link](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8)
 - [App Link](https://thallesgalv.github.io/interactive-pricing-component-challenge/)
 
 ## Brief
